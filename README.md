@@ -50,7 +50,7 @@ git reflog
 
 и мы увидим такую картину
 
-![commits_4](https://raw.githubusercontent.com/AndruBot/notes/master/12.png)
+![commits_4](https://raw.githubusercontent.com/AndruBot/notes/master/16.png)
 
 в консоли мы можем увидеть полный список коммитов нашего проекта, и мы также видим скрытый коммит
 
@@ -64,7 +64,7 @@ git cherry-pick HASH
 
 ![commits_4](https://raw.githubusercontent.com/AndruBot/notes/master/13.png)
 
-После этого коммит появляется в локальной ветку
+После этого коммит появляется в локальной ветке
 
 ![commits_4](https://raw.githubusercontent.com/AndruBot/notes/master/14.png)
 
