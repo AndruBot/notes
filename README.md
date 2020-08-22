@@ -28,7 +28,7 @@ git push origin master --force
 
 А в SourceTree последний коммит "исчезнет"
 
-![commits_4](https://raw.githubusercontent.com/AndruBot/notes/master/4.png)
+![commits_4](https://raw.githubusercontent.com/AndruBot/notes/master/5.png)
 
 Дальше можно спокойно работать, как будто последнего коммита никогда и не существовало
 
